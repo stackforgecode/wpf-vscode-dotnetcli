@@ -31,4 +31,4 @@ Para criar um formulário para salvar dados de usuário em SQLite usando o WPF n
 - Documentação oficial do WPF (Windows Presentation Foundation): [https://docs.microsoft.com/en-us/dotnet/desktop/wpf/?view=net-desktop-5.0](https://docs.microsoft.com/en-us/dotnet/desktop/wpf/?view=net-desktop-5.0)
 
 🔗 **Repositório do projeto:**
-- [wpf-raiz-vscode](https://github.com/seu-usuario/wpf-raiz-vscode)
+- [wpf-vscode-dotnetcli](https://github.com/seu-usuario/wpf-vscode-dotnetcli)
